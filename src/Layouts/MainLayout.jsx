@@ -6,7 +6,7 @@ export default function MainLayout() {
   return (
     <>
       <Navbar />
-      <h1>MainLayout</h1>
+      <h1>Main Layout</h1>
       <Outlet />
     </>
   );
