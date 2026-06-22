@@ -3,7 +3,7 @@ import "./App.css";
 import { HeroUIProvider } from "@heroui/react";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import MainLayout from "./Layouts/MainLayout";
-import Feed from "./pages/feed";
+import Feed from "./pages/Feed";
 import SignIn from "./pages/SignIn";
 import SignUp from "./pages/SignUp";
 import Profile from "./pages/Profile";
